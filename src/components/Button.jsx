@@ -3,7 +3,7 @@ import React from "react";
 export default function Button({
     children,
     type = "button",
-    bgColor = "bg-emerald-600",
+    bgColor = "bg-emerald-500 hover:bg-emerald-600 transition duration-300 ease-in-out",
     textColor = "text-white",
     className = "",
     ...props

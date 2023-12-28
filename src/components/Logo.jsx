@@ -18,7 +18,7 @@ function Logo({ width = '100px' }) {
       fontWeight: 'bold',
       color: '#48BB78',
       textShadow: '2px 2px 2px rgba(0, 0, 0, 0.2)', 
-      width: width, 
+      width: '102px', 
       textAlign: 'center', 
       lineHeight: '1', 
       letterSpacing: '2px', 

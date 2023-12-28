@@ -13,14 +13,14 @@ function Footer() {
                                 <Logo width="100px" />
                             </div>
                             <div>
-                                <p className="text-sm text-white tracking-wider pr-28 pb-10">
+                                <p className="text-sm text-white tracking-wider pr-36 pb-10">
                                     &copy; Copyright 2023. All Rights Reserved by DevUI.
                                 </p>
                             </div>
                         </div>
                     </div>
-                    <div className="w-full p-6 md:w-1/2 lg:w-2/12 ">
-                        <div className="h-full text-justify">
+                    <div className="w-full p-6 md:w-1/2 lg:w-2/12">
+                        <div className="h-full text-justify pl-32">
                             <h3 className="tracking-px mb-9 tracking-wider text-md font-semibold uppercase text-gray-100">
                                 Company
                             </h3>
@@ -46,7 +46,7 @@ function Footer() {
                                         className=" text-sm font-medium tracking-wider text-gray-100 hover:text-cyan-300"
                                         to="/"
                                     >
-                                        Affiliate Program
+                                        Affiliate
                                     </Link>
                                 </li>
                                 <li>
@@ -61,7 +61,7 @@ function Footer() {
                         </div>
                     </div>
                     <div className="w-full p-6 md:w-1/2 lg:w-2/12  ">
-                        <div className="h-full text-justify">
+                        <div className="h-full text-justify pl-32">
                             <h3 className="tracking-px mb-9  tracking-wider text-md font-semibold uppercase text-gray-100">
                                 Support
                             </h3>
@@ -87,7 +87,7 @@ function Footer() {
                                         className=" text-sm  font-medium tracking-wider text-gray-100 hover:text-cyan-300"
                                         to="/"
                                     >
-                                        Contact Us
+                                        Contact
                                     </Link>
                                 </li>
                                 <li>
@@ -95,14 +95,14 @@ function Footer() {
                                         className=" text-sm  font-medium tracking-wider text-gray-100 hover:text-cyan-300"
                                         to="/"
                                     >
-                                        Customer Support
+                                     Support
                                     </Link>
                                 </li>
                             </ul>
                         </div>
                     </div>
                     <div className="w-full p-6 md:w-1/2 lg:w-3/12 ">
-                        <div className="h-full text-justify">
+                        <div className="h-full text-justify pl-32">
                             <h3 className="tracking-px mb-9 tracking-wider text-md font-semibold uppercase text-gray-100">
                                 Legals
                             </h3>
